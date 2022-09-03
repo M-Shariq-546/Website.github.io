@@ -1,0 +1,16 @@
+.footing{
+    background-color: black;
+    color:whitesmoke;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 100.8%;
+    margin-left: -0.4%;
+    margin-bottom: -10.7%;
+}
+#foothead{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+    font-size: large;
+}

@@ -1,0 +1,29 @@
+.innovate{
+    margin-top: 40%;
+}
+.innovate #head1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 2px 2px lightgray;
+    margin-left: 5%;
+}
+.innovate #types{
+    width: 80%;
+    height: 15%;
+    margin-left: 10%;
+}
+.innovate #detail{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    margin-left: 12%;
+    margin-right: 13%;
+    font-weight: bold;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    box-shadow: 3px 3px 4px 3px black;
+    background-color: lavender;
+
+}

@@ -1,0 +1,102 @@
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color:lightgrey;
+}
+.bg{
+    background-color: indigo;
+    color: aliceblue;
+    scroll-behavior:smooth;
+    width:100%;   
+    position: absolute;
+    margin-top: -0.7%;
+    margin-left: -0.4%;
+    height: 20%;
+    margin-right: 5%;
+}
+.container{
+    margin-top: 15%;
+}
+#text{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 33px;
+    color:lightblue;
+    font-weight: bolder;
+    margin-bottom: 3%;
+    margin-left: 3%;
+}
+nav{
+    margin-left: 32%;
+    margin-top: -6%;
+    margin-bottom: 1%;
+}
+#btn{
+    background: transparent;
+    color: fuchsia;
+    border: 3px solid indigo;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin-left: 2%;
+}
+#btn:hover{
+    padding: 10px 10px 10px 10px;
+    color: chartreuse;    
+    border-color: green;
+    background-color: black;
+    border: 3px solid green;
+    border-radius: 20px 20px 20px 20px;
+}
+#pic{
+    position: relative;
+    float: right;
+    filter:drop-shadow(0px 5px 3px grey);
+    right: 5%;
+    margin-top: -5%;
+}
+.container{
+    box-shadow: 3px solid black;
+}
+.blog{
+    float: left;
+margin-left: 65%;
+position: absolute;
+margin-top: 8%;
+filter:drop-shadow(0px 5px 3px black);
+width: 30%;
+height: 55%;
+}
+.detail{
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: lavender;
+    color: black;
+    position: relative;
+    border: 1px solid white;
+    box-shadow: 3px 3px 4px 3px black;
+    margin-top: 5%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    float: left;
+    left: 5%;
+    margin-left: 1%;
+}
+.head{
+    color: black;
+    font-style: italic;
+    margin-top: 8%;
+    margin-left: 5%;
+    text-shadow: 2px 2px lightgray;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: -12%;
+}
+#types{
+    filter:drop-shadow(0px 10px 3px black)
+}
